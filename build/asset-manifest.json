@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ebe791e6.css",
+    "main.js": "/static/js/main.db9f4593.js",
+    "static/media/youtube-logo-png-transparent-image-5.png": "/static/media/youtube-logo-png-transparent-image-5.570d2c532ce172217717.png",
+    "index.html": "/index.html",
+    "main.ebe791e6.css.map": "/static/css/main.ebe791e6.css.map",
+    "main.db9f4593.js.map": "/static/js/main.db9f4593.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ebe791e6.css",
+    "static/js/main.db9f4593.js"
+  ]
+}
